@@ -24,5 +24,5 @@ EY (Ernst & Young) Georgia (Audit intern)
      + Graphic Design
 
 
-## English
+
 
