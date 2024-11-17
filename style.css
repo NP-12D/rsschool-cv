@@ -1,0 +1,130 @@
+/*  General tags*/
+a{
+    text-decoration: none;
+    color :rgb(0, 0, 0);
+}
+a:hover{
+    color: rgb(44, 50, 70);
+}
+h2{
+   background-color: rgba(44,50,70, 80%);
+    border-radius: 10px;
+    padding-left: 6px;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+h1{
+    margin-left: 10px;
+}
+footer{
+    box-shadow: 2px 2px 56px gray;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+   
+}
+header img{
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+/*General */
+
+/*nav style*/
+.nav a{
+    color :white;
+}
+.nav{
+    border-radius: 15px;
+    border: 1px solid rgb(82, 85, 177);
+    background-color: rgba(44, 50, 70,80%);
+    margin-left: 5px;
+
+}
+.nav__list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0px;
+    
+}
+.nav {
+    padding-left: 0px;
+}
+
+.nav__img{
+    width:20%;
+    height: 10%;
+    margin:10px;
+}
+.nav__item a:hover{
+    color:rgb(37, 37, 34);
+    
+  
+}
+/* nav style */
+
+/* body style*/
+.pages{
+ min-height: 100%;
+ margin: 0 auto;
+padding: 10px;
+}
+@media (min-width: 940px){
+    .pages {
+        max-width: 1280px;
+    }
+}
+
+/* body style */
+
+/* maine style*/
+
+section p{
+    margin-left: 5px;
+    font-size: 20px;
+}
+section{
+    box-shadow: 2px 2px 56px gray;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+.online h3{
+ display: inline;   
+ 
+ 
+}
+.contact__item a:hover{
+    color: rgb(40, 50, 70);
+}
+/* maine  style  */
+
+/* Footer style */
+footer a{
+    
+    font-size: 18px;
+     color:rgba(44,50,70, 80%);
+}
+footer h2:hover{
+    color: black;
+    
+}
+footer p{
+    font-size: 25px;
+    text-align: right;
+    color:rgba(44,50,70, 80%);
+
+}
+
+footer img{
+    width: 40%;
+    height: 40%;
+}
+
+/* Footer style */
+
+
+
+
