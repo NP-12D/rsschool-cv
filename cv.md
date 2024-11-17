@@ -21,7 +21,7 @@ EY (Ernst & Young) Georgia (Audit intern)
  
  ## Education:
  + __Online Courses:__
-     + Graphic Design
+     + Graphic Design 
 
 
 
